@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/union_jack"
-    tools:context=".ui.AddEditWordFragment">
+    android:background="@drawable/background_czech"
+    tools:context=".ui.addeditword.AddEditWordFragment">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -46,9 +46,6 @@
         </androidx.cardview.widget.CardView>
 
 
-
-
-
     </LinearLayout>
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
@@ -61,4 +58,5 @@
         app:backgroundTint="@color/colorRed"
         app:borderWidth="0dp"
         app:tint="@color/white" />
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

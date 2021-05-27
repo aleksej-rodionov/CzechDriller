@@ -6,6 +6,7 @@ import androidx.room.RoomDatabase
 import androidx.sqlite.db.SupportSQLiteDatabase
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
+import space.rodionov.czechdriller.ApplicationScope
 import javax.inject.Inject
 import javax.inject.Provider
 

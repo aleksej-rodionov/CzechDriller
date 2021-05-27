@@ -5,14 +5,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.CategoriesFragment">
+    tools:context=".ui.categories.CategoriesFragment">
 
     <ImageView
         android:id="@+id/main_background"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
-        android:src="@drawable/union_jack" />
+        android:src="@drawable/background_czech" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_view"
