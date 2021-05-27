@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="foreign1">	<item>lidé</item>
+
+        <item>člověk</item>
+        <item>muž</item>
+        <item>manžel</item>
+        <item>žena</item>
+        <item>dítě</item>
+        <item>chlapec</item>
+        <item>dívka</item>
+        <item>přítel</item>
+        <item>host</item>
+
+        <item>rodina</item>
+
+        <item>rodiče</item>
+        <item>otec</item>
+        <item>matka</item>
+        <item>syn</item>
+        <item>dcera</item>
+        <item>dědeček</item>
+        <item>babička</item>
+        <item>tchán</item>
+        <item>tchyně</item>
+        <item>strýc</item>
+        <item>teta</item>
+        <item>bratr</item>
+        <item>sestra</item>
+        <item>bratranec</item>
+        <item>sestřenice</item>	</string-array>
+
+    <string-array name="foreign2">	<item>práce</item>
+
+        <item>učitel</item>
+        <item>řidič</item>
+        <item>pracovník</item>
+        <item>inženýr</item>
+        <item>lékař</item>
+        <item>zdravotní sestra</item>
+        <item>prodavač</item>
+        <item>účetní</item>
+        <item>malíř</item>
+        <item>student</item>	</string-array>
+
+    <string-array name="foreign3">	<item>město</item>
+
+        <item>škola</item>
+        <item>divadlo</item>
+        <item>ulice</item>
+        <item>náměstí</item>
+        <item>místo</item>
+        <item>dům</item>
+        <item>církev</item>
+        <item>řeka</item>
+        <item>kavárna</item>
+        <item>hotel</item>
+        <item>zahrada</item>
+        <item>park</item>
+        <item>banka</item>
+        <item>zastávka</item>
+        <item>kino</item>
+        <item>most</item>
+        <item>křižovatka</item>
+        <item>les</item>
+        <item>nemocnice</item>
+        <item>trh</item>
+        <item>policie</item>
+        <item>pošta</item>
+        <item>nádraží</item>
+        <item>centrum</item>
+        <item>obchod</item>
+        <item>hora</item>	</string-array>
+
+    <string-array name="foreign4">	<item>byt</item>
+
+        <item>kuchyně</item>
+        <item>balkón</item>
+        <item>koupelna</item>
+        <item>sprcha</item>
+        <item>toaleta</item>
+        <item>podlaha</item>
+        <item>strop</item>
+        <item>patro</item>
+        <item>chodba</item>
+        <item>ložnice</item>
+        <item>obývací pokoj</item>
+        <item>dveře</item>
+        <item>okno</item>
+        <item>klíč</item>
+        <item>postel</item>
+        <item>polštář</item>
+        <item>stůl</item>
+        <item>židle</item>
+        <item>křeslo</item>
+        <item>lednička</item>
+        <item>pohovka</item>
+        <item>zrcadlo</item>	</string-array>
+
+    <string-array name="foreign5">	<item>jídlo</item>
+
+        <item>chléb</item>
+        <item>máslo</item>
+        <item>sýr</item>
+        <item>klobása</item>
+        <item>olej</item>
+        <item>pepř</item>
+        <item>sůl</item>
+        <item>bobule</item>
+        <item>med</item>
+        <item>džem</item>
+        <item>houba</item>
+        <item>cibule</item>
+        <item>banán</item>
+        <item>mrkev</item>
+        <item>hruška</item>
+        <item>řepa</item>
+        <item>ovoce</item>
+        <item>meloun</item>
+        <item>vodní meloun</item>
+        <item>zákusek</item>
+        <item>koláč</item>
+        <item>dort</item>
+        <item>čokoláda</item>
+        <item>maso</item>
+        <item>brambor</item>
+        <item>salát</item>
+        <item>rajče</item>
+        <item>okurka</item>
+        <item>zelí</item>
+        <item>kaše</item>
+        <item>polévka</item>
+        <item>sendvič</item>
+        <item>sodovka</item>
+        <item>voda</item>
+        <item>káva</item>
+        <item>čaj</item>
+        <item>mléko</item>
+        <item>džus</item>
+        <item>jablko</item>
+        <item>hrozny</item>
+        <item>pomeranč</item>
+        <item>ananas</item>
+        <item>meruňka</item>
+        <item>cukr</item>
+        <item>rýže</item>
+        <item>nudle</item>
+        <item>hovězí</item>
+        <item>vepřové</item>
+        <item>kuře</item>
+        <item>řízek</item>
+        <item>citron</item>
+        <item>hrách</item>
+        <item>buchta</item>
+        <item>ryba</item>
+        <item>sladkost</item>
+        <item>zmrzlina</item>
+        <item>ořech</item>
+        <item>vejce</item>
+        <item>broskev</item>
+
+        <item>šálek</item>
+        <item>sklenice</item>
+        <item>talíř</item>
+        <item>lžíce</item>
+        <item>vidlička</item>
+        <item>nůž</item>
+        <item>podšálek</item>
+        <item>láhev</item>
+        <item>ubrousek</item>
+
+        <item>snídaně</item>
+        <item>oběd</item>
+        <item>večeře</item>
+
+        <item>letadlo</item>
+        <item>auto</item>
+        <item>tramvaj</item>
+        <item>autobus</item>
+        <item>vlak</item>
+        <item>kolo</item>	</string-array>
+
+    <string-array name="foreign6">	<item>čas</item>
+
+        <item>rok</item>
+        <item>týden</item>
+        <item>hodina</item>
+        <item>minuta</item>
+
+        <item>včera</item>
+        <item>dnes</item>
+        <item>zítra</item>
+
+        <item>krát</item>
+
+        <item>den</item>
+        <item>ráno</item>
+        <item>večer</item>
+        <item>noc</item>
+
+        <item>pondělí</item>
+        <item>úterý</item>
+        <item>středa</item>
+        <item>čtvrtek</item>
+        <item>pátek</item>
+        <item>sobota</item>
+        <item>neděle</item>
+
+        <item>měsíc</item>
+
+        <item>leden</item>
+        <item>únor</item>
+        <item>březen</item>
+        <item>duben</item>
+        <item>květen</item>
+        <item>červen</item>
+        <item>červenec</item>
+        <item>srpen</item>
+        <item>září</item>
+        <item>říjen</item>
+        <item>listopad</item>
+        <item>prosinec</item>
+
+        <item>jaro</item>
+        <item>léto</item>
+        <item>podzim</item>
+        <item>zima</item>
+
+        <item>jméno</item>
+        <item>příjmení</item>
+        <item>adresa</item>
+        <item>číslo</item>
+        <item>narozeniny</item>
+        <item>ženatý</item>
+        <item>vdaná</item>	</string-array>
+
+    <string-array name="foreign7">	<item>věc</item>
+
+        <item>pero</item>
+        <item>kniha</item>
+        <item>šachy</item>
+        <item>telefon</item>
+        <item>hodiny</item>
+        <item>hřeben</item>
+        <item>televizor</item>
+        <item>žehlička</item>
+        <item>mýdlo</item>
+        <item>rádio</item>
+        <item>taška</item>
+        <item>mapa</item>
+        <item>pohlednice</item>
+        <item>kufr</item>
+        <item>dar</item>
+        <item>kamera</item>
+        <item>přehrávač</item>
+        <item>počítač</item>
+        <item>film</item>
+        <item>květina</item>
+        <item>váza</item>
+        <item>obraz</item>
+        <item>kapesník</item>
+        <item>míč</item>
+        <item>balónek</item>
+        <item>hračka</item>
+        <item>účet</item>
+        <item>obálka</item>
+        <item>papír</item>
+        <item>noviny</item>
+        <item>dopis</item>
+        <item>letenka</item>
+        <item>jízdenka</item>
+        <item>vstupenka</item>	</string-array>
+
+    <string-array name="foreign8">	<item>oděv</item>
+
+        <item>boty</item>
+        <item>kabát</item>
+        <item>šaty</item>
+        <item>košile</item>
+        <item>sukně</item>
+        <item>rukavice</item>
+        <item>čepice</item>
+        <item>klobouk</item>
+        <item>bunda</item>
+        <item>sako</item>
+        <item>šátek</item>
+        <item>ponožka</item>
+        <item>svetr</item>
+        <item>tričko</item>
+        <item>kravata</item>
+        <item>kalhoty</item>	</string-array>
+
+    <string-array name="foreign9">	<item>co</item>
+        <item>kdo</item>
+        <item>kde</item>
+        <item>kam</item>
+        <item>odkud</item>
+        <item>jak</item>
+        <item>proč</item>
+        <item>kdy</item>
+        <item>jaký</item>
+        <item>který</item>
+
+        <item>já</item>
+        <item>ty</item>
+        <item>on</item>
+        <item>ona</item>
+        <item>ono</item>
+        <item>my</item>
+        <item>vy</item>
+        <item>oni</item>
+
+        <item>můj</item>
+        <item>tvůj</item>
+        <item>jeho</item>
+        <item>jí</item>
+        <item>naš</item>
+        <item>váš</item>
+        <item>jejich</item>
+        <item>svůj</item>
+
+        <item>do</item>
+        <item>k</item>
+        <item>na</item>
+        <item>pod</item>
+        <item>za</item>
+        <item>s</item>
+        <item>bez</item>
+        <item>před</item>
+        <item>po</item>
+        <item>mezi</item>
+        <item>podle</item>
+        <item>vedle</item>
+        <item>pro</item>	</string-array>
+
+    <string-array name="foreign10">	<item>jeden</item>
+        <item>dva</item>
+        <item>tři</item>
+        <item>čtyři</item>
+        <item>pět</item>
+        <item>šest</item>
+        <item>sedm</item>
+        <item>osm</item>
+        <item>devět</item>
+        <item>deset</item>
+        <item>jedenáct</item>
+        <item>dvanáct</item>
+        <item>třináct</item>
+        <item>čtrnáct</item>
+        <item>patnáct</item>
+        <item>šestnáct</item>
+        <item>sedmnáct</item>
+        <item>osmnáct</item>
+        <item>devatenáct</item>
+        <item>dvacet</item>
+        <item>třicet</item>
+        <item>čtyřicet</item>
+        <item>padesát</item>
+        <item>šedesát</item>
+        <item>sedmdesát</item>
+        <item>osmdesát</item>
+        <item>devadesát</item>
+        <item>sto</item>
+        <item>tisíc</item>	</string-array>
+
+    <string-array name="foreign11">	<item>starý</item>
+        <item>mladý</item>
+        <item>nový</item>
+        <item>velký</item>
+        <item>malý</item>
+        <item>hladový</item>
+        <item>dobrý</item>
+        <item>špatný</item>
+        <item>dobře</item>
+        <item>špatně</item>
+        <item>brzy</item>
+        <item>později</item>
+        <item>minulý</item>
+        <item>příští</item>
+        <item>volný</item>
+        <item>teplo</item>
+        <item>chladno</item>
+        <item>vysoký</item>
+        <item>nízký</item>
+        <item>dlouhý</item>
+        <item>krátký</item>
+        <item>snadný</item>
+        <item>obtížný</item>
+        <item>lehký</item>
+        <item>těžký</item>
+        <item>tmavý</item>
+        <item>světlý</item>
+        <item>drahý</item>
+        <item>levný</item>
+        <item>vlevo</item>
+        <item>vpravo</item>
+        <item>správný</item>
+        <item>rychle</item>
+        <item>pomalu</item>
+        <item>měkký</item>
+        <item>tvrdý</item>
+        <item>pěkný</item>
+        <item>pozorný</item>
+        <item>smutný</item>
+        <item>rád</item>
+        <item>šťastný</item>
+        <item>připravený</item>
+        <item>rozzlobený</item>
+        <item>hlavní</item>	</string-array>
+
+    <string-array name="foreign12">	<item>černý</item>
+        <item>modrý</item>
+        <item>hnědý</item>
+        <item>zelený</item>
+        <item>šedý</item>
+        <item>červený</item>
+        <item>bílý</item>
+        <item>žlutý</item>	</string-array>
+
+    <string-array name="foreign13">	<item>ano</item>
+        <item>ne</item>
+        <item>to</item>
+        <item>zde</item>
+        <item>tam</item>
+        <item>sem</item>
+        <item>teď</item>
+        <item>už</item>
+        <item>ještě</item>
+        <item>mnoho</item>
+        <item>málo</item>
+        <item>velmi</item>
+        <item>každý</item>
+        <item>všichni</item>
+        <item>vše(chno)</item>
+        <item>tak</item>
+
+        <item>a</item>
+        <item>nebo</item>
+        <item>ale</item>
+        <item>protože</item>
+        <item>proto</item>
+        <item>že</item>	</string-array>
+
+    <string-array name="foreign14">	<item>děkuji</item>
+        <item>promiňte</item>
+        <item>prosím</item>
+        <item>není zač!</item>
+        <item>jaká škoda</item>
+        <item>na shledanou</item>
+
+        <item>píseň</item>
+        <item>hudba</item>
+        <item>velikost</item>
+        <item>peníze</item>
+        <item>štěstí</item>
+        <item>žert</item>
+        <item>překvapení</item>
+        <item>problém</item>
+        <item>večírek</item>
+
+        <item>déšť</item>
+        <item>vítr</item>
+        <item>sníh</item>
+        <item>nebe</item>
+
+        <item>země</item>
+
+        <item>Rusko</item>
+        <item>Českо</item>
+
+        <item>zvíře</item>
+
+        <item>kočka</item>
+        <item>pes</item>
+        <item>pták</item>	</string-array>
+
+    <string-array name="foreign15">	<item>být</item>
+        <item>mít</item>
+        <item>moci</item>
+        <item>musit</item>
+        <item>žít</item>
+        <item>bydlet</item>
+        <item>zůstat</item>
+        <item>přijít</item>
+        <item>přijet</item>
+        <item>jít</item>
+        <item>jet</item>
+        <item>vidět</item>
+        <item>sedět</item>
+        <item>říci</item>
+        <item>mluvit</item>
+        <item>pracovat</item>
+        <item>lámat</item>
+        <item>dělat</item>
+        <item>odeslat</item>
+        <item>koupit</item>
+        <item>plavat</item>
+        <item>spát</item>
+        <item>probudit</item>
+        <item>mýt</item>
+        <item>prát</item>
+        <item>zkusit</item>
+        <item>najít</item>
+        <item>přinést</item>
+        <item>slavit</item>
+        <item>usmát se</item>
+        <item>plakat</item>
+        <item>stát</item>
+        <item>učit se</item>
+        <item>učit</item>
+        <item>psát</item>
+        <item>padat</item>
+        <item>poslouchat</item>
+        <item>ukázat</item>
+        <item>zvítězit</item>
+        <item>myslet</item>
+        <item>zavřít</item>
+        <item>otevřít</item>
+        <item>vědět</item>
+        <item>znát</item>
+        <item>zpívat</item>
+        <item>tancovat</item>
+        <item>zeptat se</item>
+        <item>odpovědět</item>
+        <item>sbírat</item>
+        <item>milovat</item>
+        <item>kreslit</item>
+        <item>vybírat</item>
+        <item>chtít</item>
+        <item>jíst</item>
+        <item>pít</item>
+        <item>dát</item>
+        <item>péct</item>
+        <item>vařit</item>
+        <item>řezat</item>
+        <item>brát</item>
+        <item>čekat</item>
+        <item>číst</item>
+        <item>hrát</item>	</string-array>
+
+</resources>

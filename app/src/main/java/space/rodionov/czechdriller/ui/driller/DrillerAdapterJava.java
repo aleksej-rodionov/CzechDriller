@@ -72,7 +72,7 @@ public class DrillerAdapterJava  extends ListAdapter<Word, DrillerAdapterJava.Dr
                 @Override
                 public void onInit(int status) {
                     if (status == TextToSpeech.SUCCESS) {
-                        int result = mTTS.setLanguage(Locale.ENGLISH);
+                        int result = mTTS.setLanguage(new Locale("cs", "CZ"));
                         if (result == TextToSpeech.LANG_MISSING_DATA
                                 || result == TextToSpeech.LANG_NOT_SUPPORTED) {
                             Log.e("TTS", "Language not supported");

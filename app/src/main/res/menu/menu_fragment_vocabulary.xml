@@ -23,11 +23,21 @@
         android:title="@string/show_all_categories"
         app:showAsAction="never" />
 
-            <item android:id="@+id/action_cat1" android:title="@string/only_cat1" />
-            <item android:id="@+id/action_cat2" android:title="@string/only_cat2" />
-            <item android:id="@+id/action_cat3" android:title="@string/only_cat3"  />
-            <item android:id="@+id/action_cat4" android:title="@string/only_cat4" />
-            <item android:id="@+id/action_cat5" android:title="@string/only_cat5" />
+    <item android:id="@+id/action_cat1" android:title="Люди" />
+    <item android:id="@+id/action_cat2" android:title="Работа" />
+    <item android:id="@+id/action_cat3" android:title="Город" />
+    <item android:id="@+id/action_cat4" android:title="Квартира" />
+    <item android:id="@+id/action_cat5" android:title="Еда" />
+    <item android:id="@+id/action_cat6" android:title="Время" />
+    <item android:id="@+id/action_cat7" android:title="Вещи" />
+    <item android:id="@+id/action_cat8" android:title="Одежда" />
+    <item android:id="@+id/action_cat9" android:title="Местоимения, предлоги и т.п." />
+    <item android:id="@+id/action_cat10" android:title="Числа" />
+    <item android:id="@+id/action_cat11" android:title="Прилагательные" />
+    <item android:id="@+id/action_cat12" android:title="Цвета" />
+    <item android:id="@+id/action_cat13" android:title="Частицы, союзы" />
+    <item android:id="@+id/action_cat14" android:title="Всякая всячина" />
+    <item android:id="@+id/action_cat15" android:title="Глаголы" />
 
 
 

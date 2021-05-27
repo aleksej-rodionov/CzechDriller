@@ -207,6 +207,46 @@ class VocabularyFragment : Fragment(R.layout.recycler_layout),
                 viewModel.onChooseCategoryClick(5)
                 true
             }
+            R.id.action_cat6 -> {
+                viewModel.onChooseCategoryClick(6)
+                true
+            }
+            R.id.action_cat7 -> {
+                viewModel.onChooseCategoryClick(7)
+                true
+            }
+            R.id.action_cat8 -> {
+                viewModel.onChooseCategoryClick(8)
+                true
+            }
+            R.id.action_cat9 -> {
+                viewModel.onChooseCategoryClick(9)
+                true
+            }
+            R.id.action_cat10 -> {
+                viewModel.onChooseCategoryClick(10)
+                true
+            }
+            R.id.action_cat11 -> {
+                viewModel.onChooseCategoryClick(11)
+                true
+            }
+            R.id.action_cat12 -> {
+                viewModel.onChooseCategoryClick(12)
+                true
+            }
+            R.id.action_cat13 -> {
+                viewModel.onChooseCategoryClick(13)
+                true
+            }
+            R.id.action_cat14 -> {
+                viewModel.onChooseCategoryClick(14)
+                true
+            }
+            R.id.action_cat15 -> {
+                viewModel.onChooseCategoryClick(15)
+                true
+            }
             else -> super.onOptionsItemSelected(item)
         }
     }

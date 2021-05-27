@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="nativ1">	<item>люди</item>
+
+        <item>человек</item>
+        <item>мужчина</item>
+        <item>муж</item>
+        <item>женщина, жена</item>
+        <item>ребенок</item>
+        <item>мальчик</item>
+        <item>девочка</item>
+        <item>друг</item>
+        <item>гость</item>
+
+        <item>семья</item>
+
+        <item>родители</item>
+        <item>отец</item>
+        <item>мать</item>
+        <item>сын</item>
+        <item>дочь</item>
+        <item>дед</item>
+        <item>бабушка</item>
+        <item>тесть (свекор)</item>
+        <item>теща (свекровь)</item>
+        <item>дядя</item>
+        <item>тетя</item>
+        <item>брат</item>
+        <item>сестра</item>
+        <item>двоюродный брат</item>
+        <item>двоюродная сестра</item>	</string-array>
+
+    <string-array name="nativ2">	<item>работа</item>
+
+        <item>учитель</item>
+        <item>водитель</item>
+        <item>рабочий</item>
+        <item>инженер</item>
+        <item>врач</item>
+        <item>медсестра</item>
+        <item>продавец</item>
+        <item>бухгалтер</item>
+        <item>художник</item>
+        <item>студент</item>	</string-array>
+
+    <string-array name="nativ3">	<item>город</item>
+
+        <item>школа</item>
+        <item>театр</item>
+        <item>улица</item>
+        <item>площадь</item>
+        <item>место</item>
+        <item>дом</item>
+        <item>церковь</item>
+        <item>река</item>
+        <item>кафе</item>
+        <item>гостиница</item>
+        <item>сад</item>
+        <item>парк</item>
+        <item>банк</item>
+        <item>остановка</item>
+        <item>кинотеатр</item>
+        <item>мост</item>
+        <item>перекрёсток</item>
+        <item>лес</item>
+        <item>больница</item>
+        <item>рынок</item>
+        <item>полиция</item>
+        <item>почта</item>
+        <item>станция, вокзал</item>
+        <item>центр</item>
+        <item>магазин</item>
+        <item>гора</item>	</string-array>
+
+    <string-array name="nativ4">	<item>квартира</item>
+
+        <item>кухня</item>
+        <item>балкон</item>
+        <item>ванная</item>
+        <item>душ</item>
+        <item>туалет</item>
+        <item>пол</item>
+        <item>потолок</item>
+        <item>этаж</item>
+        <item>коридор</item>
+        <item>спальня</item>
+        <item>зал</item>
+        <item>дверь</item>
+        <item>окно</item>
+        <item>ключ</item>
+        <item>кровать</item>
+        <item>подушка</item>
+        <item>стол</item>
+        <item>стул</item>
+        <item>кресло</item>
+        <item>холодильник</item>
+        <item>диван</item>
+        <item>зеркало</item>	</string-array>
+
+    <string-array name="nativ5">	<item>еда</item>
+
+        <item>хлеб</item>
+        <item>масло</item>
+        <item>сыр</item>
+        <item>колбаса</item>
+        <item>растительное масло</item>
+        <item>горький перец</item>
+        <item>соль</item>
+        <item>ягода</item>
+        <item>мёд</item>
+        <item>варенье</item>
+        <item>гриб</item>
+        <item>лук (репчатый)</item>
+        <item>банан</item>
+        <item>морковь</item>
+        <item>груша</item>
+        <item>свекла</item>
+        <item>фрукты</item>
+        <item>дыня</item>
+        <item>арбуз</item>
+        <item>пирожное</item>
+        <item>пирог</item>
+        <item>торт</item>
+        <item>шоколад</item>
+        <item>мясо</item>
+        <item>картофель</item>
+        <item>салат</item>
+        <item>помидор</item>
+        <item>огурец</item>
+        <item>капуста</item>
+        <item>каша</item>
+        <item>суп</item>
+        <item>бутерброд</item>
+        <item>газировка</item>
+        <item>вода</item>
+        <item>кофе</item>
+        <item>чай</item>
+        <item>молоко</item>
+        <item>сок</item>
+        <item>яблоко</item>
+        <item>виноград</item>
+        <item>апельсин</item>
+        <item>ананас</item>
+        <item>абрикос</item>
+        <item>сахар</item>
+        <item>рис</item>
+        <item>лапша</item>
+        <item>говядина</item>
+        <item>свинина</item>
+        <item>курица</item>
+        <item>котлета</item>
+        <item>лимон</item>
+        <item>горох</item>
+        <item>булочка</item>
+        <item>рыба</item>
+        <item>конфета, сладость</item>
+        <item>мороженое</item>
+        <item>орех</item>
+        <item>яйцо</item>
+        <item>персик</item>
+
+        <item>чашка</item>
+        <item>стакан</item>
+        <item>тарелка</item>
+        <item>ложка</item>
+        <item>вилка</item>
+        <item>нож</item>
+        <item>блюдце</item>
+        <item>бутылка</item>
+        <item>салфетка</item>
+
+        <item>завтрак</item>
+        <item>обед</item>
+        <item>ужин</item>
+
+        <item>самолет</item>
+        <item>автомобиль</item>
+        <item>трамвай</item>
+        <item>автобус</item>
+        <item>поезд</item>
+        <item>велосипед</item>	</string-array>
+
+    <string-array name="nativ6">	<item>время</item>
+
+        <item>год</item>
+        <item>неделя</item>
+        <item>час</item>
+        <item>минута</item>
+
+        <item>вчера</item>
+        <item>сегодня</item>
+        <item>завтра</item>
+
+        <item>(столько-то) раз</item>
+
+        <item>день</item>
+        <item>утро(м)</item>
+        <item>вечер(ом)</item>
+        <item>ночь</item>
+
+        <item>понедельник</item>
+        <item>вторник</item>
+        <item>среда</item>
+        <item>четверг</item>
+        <item>пятница</item>
+        <item>суббота</item>
+        <item>воскресенье</item>
+
+        <item>месяц</item>
+
+        <item>январь</item>
+        <item>февраль</item>
+        <item>март</item>
+        <item>апрель</item>
+        <item>май</item>
+        <item>июнь</item>
+        <item>июль</item>
+        <item>август</item>
+        <item>сентябрь</item>
+        <item>октябрь</item>
+        <item>ноябрь</item>
+        <item>декабрь</item>
+
+        <item>весна</item>
+        <item>лето</item>
+        <item>осень</item>
+        <item>зима</item>
+
+        <item>имя</item>
+        <item>фамилия</item>
+        <item>адрес</item>
+        <item>номер</item>
+        <item>день рождения</item>
+        <item>женатый</item>
+        <item>замужняя</item>	</string-array>
+
+    <string-array name="nativ7">	<item>вещь</item>
+
+        <item>ручка</item>
+        <item>книга</item>
+        <item>шахматы</item>
+        <item>телефон</item>
+        <item>часы</item>
+        <item>расчёска</item>
+        <item>телевизор</item>
+        <item>утюг</item>
+        <item>мыло</item>
+        <item>радио</item>
+        <item>сумка</item>
+        <item>географическая карта</item>
+        <item>открытка</item>
+        <item>чемодан</item>
+        <item>подарок</item>
+        <item>камера</item>
+        <item>плейер</item>
+        <item>компьютер</item>
+        <item>фильм</item>
+        <item>цветок</item>
+        <item>ваза</item>
+        <item>картина</item>
+        <item>носовой платок</item>
+        <item>мяч</item>
+        <item>воздушный шарик</item>
+        <item>игрушка</item>
+        <item>счёт</item>
+        <item>конверт</item>
+        <item>бумага</item>
+        <item>газета</item>
+        <item>письмо</item>
+        <item>билет на самолет</item>
+        <item>билет на поезд, автобус</item>
+        <item>билет в кино, театр</item>	</string-array>
+
+    <string-array name="nativ8">	<item>одежда</item>
+
+        <item>обувь</item>
+        <item>пальто</item>
+        <item>платье</item>
+        <item>рубашка</item>
+        <item>юбка</item>
+        <item>перчатка</item>
+        <item>шапка</item>
+        <item>шляпа</item>
+        <item>куртка</item>
+        <item>пиджак</item>
+        <item>шарф</item>
+        <item>носок</item>
+        <item>свитер</item>
+        <item>футболка</item>
+        <item>галстук</item>
+        <item>брюки</item>	</string-array>
+
+    <string-array name="nativ9">	<item>что</item>
+        <item>кто</item>
+        <item>где</item>
+        <item>куда</item>
+        <item>откуда</item>
+        <item>как</item>
+        <item>почему</item>
+        <item>когда</item>
+        <item>какой</item>
+        <item>который</item>
+
+        <item>я</item>
+        <item>ты</item>
+        <item>он</item>
+        <item>она</item>
+        <item>оно</item>
+        <item>мы</item>
+        <item>вы</item>
+        <item>они</item>
+
+        <item>мой</item>
+        <item>твой</item>
+        <item>его</item>
+        <item>ее</item>
+        <item>наш</item>
+        <item>ваш</item>
+        <item>их</item>
+        <item>свой</item>
+
+        <item>в, до</item>
+        <item>к</item>
+        <item>на</item>
+        <item>под</item>
+        <item>за, позади</item>
+        <item>с</item>
+        <item>без</item>
+        <item>до, прежде, перед</item>
+        <item>после</item>
+        <item>между</item>
+        <item>по, согласно</item>
+        <item>возле</item>
+        <item>для</item>	</string-array>
+
+    <string-array name="nativ10">	<item>один</item>
+        <item>два</item>
+        <item>три</item>
+        <item>четыре</item>
+        <item>пять</item>
+        <item>шесть</item>
+        <item>семь</item>
+        <item>восемь</item>
+        <item>девять</item>
+        <item>десять</item>
+        <item>одиннадцать</item>
+        <item>двенадцать</item>
+        <item>тринадцать</item>
+        <item>четырнадцать</item>
+        <item>пятнадцать</item>
+        <item>шестнадцать</item>
+        <item>семнадцать</item>
+        <item>восемнадцать</item>
+        <item>девятнадцать</item>
+        <item>двадцать</item>
+        <item>тридцать</item>
+        <item>сорок</item>
+        <item>пятьдесят</item>
+        <item>шестьдесят</item>
+        <item>семьдесят</item>
+        <item>восемьдесят</item>
+        <item>девяносто</item>
+        <item>сто</item>
+        <item>тысяча</item>	</string-array>
+
+    <string-array name="nativ11">	<item>старый</item>
+        <item>молодой</item>
+        <item>новый</item>
+        <item>большой</item>
+        <item>маленький</item>
+        <item>голодный</item>
+        <item>хороший</item>
+        <item>плохой</item>
+        <item>хорошо</item>
+        <item>плохо</item>
+        <item>ранo</item>
+        <item>поздно</item>
+        <item>прошлый</item>
+        <item>следующий</item>
+        <item>свободный</item>
+        <item>теплo</item>
+        <item>холодно</item>
+        <item>высокий</item>
+        <item>низкий</item>
+        <item>длинный, долгий</item>
+        <item>короткий</item>
+        <item>лёгкий, несложный</item>
+        <item>тяжёлый, трудный</item>
+        <item>легкий (по весу)</item>
+        <item>тяжелый (по весу)</item>
+        <item>тёмный</item>
+        <item>светлый</item>
+        <item>дорогой</item>
+        <item>дешёвый</item>
+        <item>влево</item>
+        <item>вправо</item>
+        <item>правильный</item>
+        <item>быстрый</item>
+        <item>медленно</item>
+        <item>мягкий</item>
+        <item>твёрдый</item>
+        <item>красивый</item>
+        <item>внимательный</item>
+        <item>печальный</item>
+        <item>рад(остный)</item>
+        <item>счастливый</item>
+        <item>готовый</item>
+        <item>сердитый</item>
+        <item>главный</item>	</string-array>
+
+    <string-array name="nativ12">	<item>чёрный</item>
+        <item>голубой; синий</item>
+        <item>коричневый</item>
+        <item>зелёный</item>
+        <item>серый</item>
+        <item>красный</item>
+        <item>белый</item>
+        <item>жёлтый</item>	</string-array>
+
+    <string-array name="nativ13">	<item>да</item>
+        <item>нет; не</item>
+        <item>это</item>
+        <item>здесь</item>
+        <item>там, туда</item>
+        <item>сюда</item>
+        <item>сейчас, теперь</item>
+        <item>уже</item>
+        <item>еще</item>
+        <item>много</item>
+        <item>мало</item>
+        <item>очень</item>
+        <item>каждый</item>
+        <item>все</item>
+        <item>всё</item>
+        <item>так</item>
+
+        <item>и</item>
+        <item>или</item>
+        <item>но</item>
+        <item>потому что, так как</item>
+        <item>поэтому</item>
+        <item>что (союз)</item>	</string-array>
+
+    <string-array name="nativ14">	<item>спасибо, благодарю</item>
+        <item>извините</item>
+        <item>пожалуйста (прошу)</item>
+        <item>пожалуйста, не за что</item>
+        <item>как жаль</item>
+        <item>до свидания</item>
+
+        <item>песня</item>
+        <item>музыка</item>
+        <item>размер</item>
+        <item>деньги</item>
+        <item>счастье, удача</item>
+        <item>шутка</item>
+        <item>сюрприз</item>
+        <item>проблема</item>
+        <item>вечеринка</item>
+
+        <item>дождь</item>
+        <item>ветер</item>
+        <item>снег</item>
+        <item>небо</item>
+
+        <item>страна</item>
+
+        <item>Россия</item>
+        <item>Чехия</item>
+
+        <item>животное</item>
+
+        <item>кошка</item>
+        <item>собака</item>
+        <item>птица</item>	</string-array>
+
+    <string-array name="nativ15">	<item>быть, являться, находиться</item>
+        <item>иметь</item>
+        <item>мочь</item>
+        <item>быть должным</item>
+        <item>жить</item>
+        <item>проживать</item>
+        <item>оставаться</item>
+        <item>приходить</item>
+        <item>приезжать</item>
+        <item>идти</item>
+        <item>ехать</item>
+        <item>видеть</item>
+        <item>сидеть</item>
+        <item>сказать</item>
+        <item>говорить, разговаривать</item>
+        <item>работать</item>
+        <item>ломать</item>
+        <item>делать</item>
+        <item>посылать</item>
+        <item>покупать</item>
+        <item>плавать</item>
+        <item>спать</item>
+        <item>будить</item>
+        <item>мыть</item>
+        <item>cтирать</item>
+        <item>пробовать</item>
+        <item>находить</item>
+        <item>приносить</item>
+        <item>праздновать</item>
+        <item>улыбаться</item>
+        <item>плакать</item>
+        <item>стоять, стоить</item>
+        <item>учиться</item>
+        <item>учить, обучать</item>
+        <item>писать</item>
+        <item>падать</item>
+        <item>слушать</item>
+        <item>показывать</item>
+        <item>побеждать</item>
+        <item>думать</item>
+        <item>закрывать</item>
+        <item>открывать</item>
+        <item>знать</item>
+        <item>знать, быть знакомым</item>
+        <item>петь</item>
+        <item>танцевать</item>
+        <item>спрашивать</item>
+        <item>отвечать</item>
+        <item>собирать</item>
+        <item>любить</item>
+        <item>рисовать</item>
+        <item>выбирать</item>
+        <item>хотеть</item>
+        <item>кушать</item>
+        <item>пить</item>
+        <item>дать</item>
+        <item>печь</item>
+        <item>готовить (еду), варить</item>
+        <item>резать</item>
+        <item>брать</item>
+        <item>ждать</item>
+        <item>читать</item>
+        <item>играть</item>	</string-array>
+
+
+</resources>
