@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVMNewsApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-paging" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/desktop-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/english-driller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pilotproject-mvvm-paging-and-caching" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/self-analysis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/swedish-driller" vcs="Git" />
+  </component>
+</project>
